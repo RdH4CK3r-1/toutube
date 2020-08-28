@@ -2,8 +2,8 @@ termux-setup-storage
 
 R () {
 
-	cd $PREFIX/bin	if [ -e python ];then
-
+	cd $PREFIX/bin	
+  if [ -e python ];then
 	#cd ~/Termux-Hack-2
 
 	#cd /sdcard/Gith*

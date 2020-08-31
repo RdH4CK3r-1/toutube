@@ -40,7 +40,8 @@ R () {
 
 		cd /sdcard
 
-		mkdir youtube-video-download
+		mkdir youtube-video
+		
 
 		}
 

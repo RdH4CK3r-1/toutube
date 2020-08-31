@@ -74,7 +74,7 @@ R () {
 
 			cd /sdcard
 
-			if [ -e youtube-video-download ];then
+			if [ -e youtube-video ];then
 
 			menu
 
